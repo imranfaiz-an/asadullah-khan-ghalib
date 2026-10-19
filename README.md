@@ -6,5 +6,7 @@ Up next I will be working on doing some basic text analysis to find more meaning
 
 ---
 ادائے خاص سے غالب ہوا ہے نکتہ سرا
+
+
 صلائے عام ہے یارانِ نکتہ داں کے لیے
 ---
