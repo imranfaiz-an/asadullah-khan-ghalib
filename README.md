@@ -9,4 +9,5 @@ Up next I will be working on doing some basic text analysis to find more meaning
 
 
 صلائے عام ہے یارانِ نکتہ داں کے لیے
+
 ---
